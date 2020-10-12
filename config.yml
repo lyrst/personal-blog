@@ -18,8 +18,8 @@ netlify:
     version: v1
 postprocess:
   enabled: true
-title: The Butler
-description: A ready to use static blog, powered by Cecil. Test123
+title: Dev Journal
+description: My private Software development journey
 baseurl: /
 canonicalurl: false
 virtualpages:
