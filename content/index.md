@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Stefan's Dev Journal
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> My private Software development journey
