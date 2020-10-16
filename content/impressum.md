@@ -2,9 +2,6 @@
 title: Impressum
 date: 2020-10-16
 ---
-
-# Impressum
-
 ## Angaben gemäß § 5 TMG
 
 Stefan Lüer  
