@@ -1,7 +1,6 @@
 ---
 title: Impressum
 date: 2020-10-16
-menu: main
 ---
 
 # Impressum
